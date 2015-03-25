@@ -1,0 +1,13 @@
+module.exports =
+  db: 'crawl'
+  username: 'crawl'
+  password: '147852369'
+  port: 5432
+  host: 'localhost'
+  GOOGLE_OAUTH:
+    CLIENT_ID:  '754163554830-4jb1pugr6nfsom5tpg97jh9shr8b0ev2.apps.googleusercontent.com'
+    CLIENT_SECRET: 'EBTELb3a8g59yQFVz3FJZvps'
+    REDIRECT_URI: 'http://firefly.klyukin.net/google/oauth2callback'
+  GOOGLE_AUTH:
+    email: 'eugenek.adpipes@gmail.com'
+    password: '!!Eugene12'

@@ -1,0 +1,7 @@
+node_modules
+dist
+src/config.coffee
+coverage.html
+tmp
+.idea
+npm-debug.log
